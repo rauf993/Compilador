@@ -14,9 +14,9 @@ This project is a compiler in Java ,in my translators class i needed to create a
 - NetBeans IDE
 ## Project images
 
-  ![Overview Image](images/image1.png)
+  ![Overview Image](src/images/image1.png)
   
-  ![Overview Image](images/image2.png)
-    ![Overview Image](images/image3.png)
-      ![Overview Image](images/image4.png)
+  ![Overview Image](src/images/image2.png)
+    ![Overview Image](src/images/image3.png)
+      ![Overview Image](src/images/image4.png)
     
