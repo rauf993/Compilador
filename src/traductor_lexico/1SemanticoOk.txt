@@ -1,0 +1,18 @@
+SEMANTICO_OK main{
+
+int A,B,C,RES1;
+
+string APE,NOM,DIR,RES2;
+APE=HOLA;
+NOM=PO;
+DIR=ER;
+float HOLA;
+
+HOLA=1.2;
+
+RES1=1;
+
+RES2=APE+NOM+DIR;
+
+
+END}

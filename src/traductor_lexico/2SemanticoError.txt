@@ -1,0 +1,9 @@
+SEMANTICO_OK main{
+
+INT A,B,C,RES1;
+
+RES="HOLA";
+
+
+
+END}
